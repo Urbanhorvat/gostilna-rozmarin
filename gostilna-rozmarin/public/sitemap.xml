@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://gostilna-rozmarin.si/</loc>
+    <image:image>
+      <image:loc>https://static.readdy.ai/image/610b801a81a299b5cf2b47908013d228/4bf46d5618625e37335596135857ff2b.png</image:loc>
+      <image:title>Gostilna Rožmarin &amp; Apartmaji Babi</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gostilna-rozmarin.si/gostilna</loc>
+    <image:image>
+      <image:loc>https://static.readdy.ai/image/610b801a81a299b5cf2b47908013d228/3da97481e91e7d23148dee790e23750e.png</image:loc>
+      <image:title>Gostilna Rožmarin</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gostilna-rozmarin.si/pice</loc>
+  </url>
+  <url>
+    <loc>https://gostilna-rozmarin.si/jedilni-list</loc>
+  </url>
+  <url>
+    <loc>https://gostilna-rozmarin.si/apartmaji</loc>
+    <image:image>
+      <image:loc>https://static.readdy.ai/image/610b801a81a299b5cf2b47908013d228/af1fa38fd71168577a661a6aaaab376a.png</image:loc>
+      <image:title>Apartmaji Babi</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://gostilna-rozmarin.si/wellness</loc>
+  </url>
+  <url>
+    <loc>https://gostilna-rozmarin.si/galerija</loc>
+  </url>
+  <url>
+    <loc>https://gostilna-rozmarin.si/dozivetja</loc>
+  </url>
+  <url>
+    <loc>https://gostilna-rozmarin.si/cenik</loc>
+  </url>
+  <url>
+    <loc>https://gostilna-rozmarin.si/kontakt</loc>
+  </url>
+</urlset>
